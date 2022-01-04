@@ -1,0 +1,51 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/10/2018 19:40
+  	*/
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/barber/Flaticon.eot");
+    src: url("../fonts/barber/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/barber/Flaticon.woff") format("woff"),
+    url("../fonts/barber/Flaticon.ttf") format("truetype"),
+    url("../fonts/barber/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/barber/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+[class*="flaticon-"] {
+    display: inline-block;
+}
+
+.flaticon-razor:before { content: "\f100"; }
+.flaticon-brush:before { content: "\f101"; }
+.flaticon-scissors:before { content: "\f102"; }
+.flaticon-hair-dryer:before { content: "\f103"; }
+.flaticon-gentleman:before { content: "\f104"; }
+.flaticon-brush-1:before { content: "\f105"; }
+.flaticon-scissors-1:before { content: "\f106"; }
+.flaticon-razor-1:before { content: "\f107"; }
+.flaticon-straight-razor:before { content: "\f108"; }
+.flaticon-soap:before { content: "\f109"; }
+.flaticon-comb:before { content: "\f10a"; }
+.flaticon-razor-2:before { content: "\f10b"; }
+.flaticon-barber-sign:before { content: "\f10c"; }
+.flaticon-shampoo:before { content: "\f10d"; }
+.flaticon-tie:before { content: "\f10e"; }
+.flaticon-clipper:before { content: "\f10f"; }
+.flaticon-moustache:before { content: "\f110"; }
+.flaticon-moustache-cream:before { content: "\f111"; }
+.flaticon-mirror:before { content: "\f112"; }
